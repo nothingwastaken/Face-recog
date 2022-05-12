@@ -1,0 +1,23 @@
+body{
+    background: rgb(0,255,68);
+    background: linear-gradient(90deg, rgba(0,255,68,1) 0%, rgba(202,255,0,1) 50%, rgba(0,212,255,1) 100%);
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 0.5px 0.5px;
+
+}
+
+button{
+    padding: 5px 5px;
+}
+button:hover{
+    box-shadow: 1.5px 1.5px;
+}
+hr{
+    height: 1px;
+    background-color: #000000;
+    border: none;
+}
+h1{
+    font-weight: bold;
+    color: #000000;
+}
